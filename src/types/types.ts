@@ -1,0 +1,1 @@
+export type category = "popular" | "top_rated" | "upcoming";
